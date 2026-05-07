@@ -187,10 +187,9 @@ For best results:
 
 # Repository Structure
 
-```bash
+```js
 .
 ├── PROMPT BUSINESS.txt
 ├── Prompt CS IT - MATH INCLUDE.txt
-├── UNIVERSAL PROMPT.txt
 └── README.md
 ```
