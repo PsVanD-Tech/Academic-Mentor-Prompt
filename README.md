@@ -1,31 +1,218 @@
-# Academic-Mentor-Prompt
+# Academic Mentor Prompt
 
-Customizable AI academic mentor prompt framework for university students.
+A powerful customizable AI mentor framework built for university students.
 
-Designed for:
+Designed to simulate a world-class academic mentor capable of teaching with:
+
+* first-principles reasoning
+* structured analytical thinking
+* research-level depth
+* real-world engineering & business insight
+
+---
+
+## Supported Fields
 
 * Computer Science
-* Mathematics
 * Artificial Intelligence
+* Mathematics
 * Digital Business
-* Engineering
-* Research & Thesis guidance
+* Software Engineering
+* Data Science
+* Startup & Product Strategy
+* Research & Thesis Guidance
 
-Features:
+---
 
-* Modular prompt architecture
-* Curriculum-aware mentoring
-* Adaptive teaching depth
+## Features
+
+* Fully customizable mentor persona
+* Curriculum-aware teaching system
+* Adaptive explanation depth
+* Structured technical responses
 * Research-oriented reasoning
-* Technical & analytical response structure
-* Fully customizable persona system
+* Modular prompt architecture
 * Multi-discipline compatible
+* Beginner → advanced scalability
+* Industry + academic integration
 
-Ideal for:
+---
+
+## Special Modes
+
+* `deep dive`
+* `ELI5`
+* `socratic`
+* `research mode`
+* `interview mode`
+* `debug mode`
+* `strategy mode`
+* `plan [topic]`
+
+---
+
+## Ideal For
 
 * Custom GPTs
-* AI tutors
-* Study assistants
-* Research copilots
-* Technical interview mentors
-* Personal learning systems
+* AI Tutors
+* Study Copilots
+* Research Assistants
+* Technical Interview Practice
+* Personal Learning Systems
+* University Students
+* Self-Learners
+
+---
+
+## Philosophy
+
+This prompt prioritizes:
+
+1. First-principles understanding
+2. Systems thinking
+3. Analytical rigor
+4. Real-world applicability
+5. Long-term mastery over memorization
+
+---
+
+## Customization
+
+Every section is modular and editable:
+
+* mentor identity
+* specialization
+* curriculum
+* teaching style
+* response structure
+* reasoning depth
+* communication tone
+* learning priorities
+
+Build your own AI professor exactly the way you want.
+---
+
+# How To Use
+
+## 1. Choose a Prompt
+
+Select one of the available prompt templates:
+
+```bash
+PROMPT BUSINESS.txt
+Prompt CS IT - MATH INCLUDE.txt
+UNIVERSAL PROMPT.txt
+```
+
+Each prompt is designed for different academic or professional use cases.
+
+---
+
+## 2. Copy the Prompt
+
+Open the `.txt` file and copy the entire prompt content.
+
+---
+
+## 3. Paste Into AI
+
+Use the prompt inside:
+
+* ChatGPT Custom Instructions
+* Custom GPT
+* Claude Projects
+* Gemini Gems
+* Perplexity Spaces
+* Any LLM system with system-prompt support
+
+---
+
+## 4. Customize Variables
+(only for UNIVERSAL PROMPT.txt)
+
+Replace editable placeholders like:
+
+```txt
+[USER_MAJOR]
+[CURRENT_PHASE]
+[SPECIALIZATION_1]
+[USER_DEFINE_TONE]
+```
+
+Example:
+
+```txt
+[USER_MAJOR] → Computer Science
+[CURRENT_PHASE] → Semester 3
+[SPECIALIZATION_1] → Artificial Intelligence
+```
+
+---
+
+## 5. Start Learning
+
+Example prompts:
+
+```txt
+deep dive binary search trees
+```
+
+```txt
+plan machine learning
+```
+
+```txt
+research mode explain transformers architecture
+```
+
+```txt
+socratic solve this calculus problem
+```
+
+---
+
+# Example Use Cases
+
+## Computer Science Student
+
+* algorithms
+* operating systems
+* AI & machine learning
+* software engineering
+
+## Digital Business Student
+
+* startup strategy
+* fintech
+* digital marketing
+* product management
+
+## Research & Thesis
+
+* literature review
+* methodology guidance
+* paper analysis
+* academic writing support
+
+---
+
+# Recommended Setup
+
+For best results:
+
+* use GPT-5.5 / Claude Opus / Gemini Advanced
+* enable long-context memory if available
+* keep curriculum context updated
+* customize mentor persona to your learning style
+
+---
+
+# Repository Structure
+
+```bash
+.
+├── PROMPT BUSINESS.txt
+├── Prompt CS IT - MATH INCLUDE.txt
+├── UNIVERSAL PROMPT.txt
+└── README.md
+```
