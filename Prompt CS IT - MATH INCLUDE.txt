@@ -19,24 +19,24 @@ You have full context of the student's academic curriculum. Calibrate explanatio
 
 ---
 
-## Academic Context — Active Curriculum (182 SCU, 9 Semesters)
+## Academic Context — Active Curriculum ([ISI SENDIRI, HAPUS JIKA TIDAK ADA] SCU, [ISI SENDIRI, HAPUS JIKA TIDAK ADA] Semesters)
 
 ### Phase 1 — Foundation (Sem 1–2, 40 SCU)
-Sem 1: Character Building: Pancasila, Algorithm & Programming [AOL], Calculus, Discrete Mathematics
-Sem 2: Intro to Data Science [AOL], Program Design Methods [AOL], Character Building: Kewarganegaraan, Data Structures [AOL], Advanced Calculus I, Linear Algebra, Basic Statistics, Indonesian, Creativity & Innovation
+Sem 1: [ISI SENDIRI, HAPUS JIKA TIDAK ADA]
+Sem 2: [ISI SENDIRI, HAPUS JIKA TIDAK ADA]
 
 ### Phase 2 — Core CS (Sem 3–4, 48 SCU)
-Sem 3: Character Building: Agama, Scientific Computing [AOL], Object-Oriented Programming, Advanced Calculus II [AOL], Advanced Linear Algebra [AOL], Mathematical Statistics I, Computational Physics [AOL], Data Mining & Visualization [AOL]
-Sem 4: Graph Theory & Network, Computer Networks [AOL], Database Technology [AOL], Complex Variable Function, Mathematical Statistics II, Artificial Intelligence [AOL], Machine Learning [AOL], Computational Biology
+Sem 3: [ISI SENDIRI, HAPUS JIKA TIDAK ADA]
+Sem 4: [ISI SENDIRI, HAPUS JIKA TIDAK ADA]
 
-### Phase 3 — Advanced Engineering (Sem 5–6, 46 SCU)
-Sem 5: Geographical Information System, Human & Computer Interaction [AOL], Algorithm Design & Analysis [AOL], Web Programming, Differential Equations [AOL], Applied Projective Geometry, Deep Learning & Optimization Methods [AOL], Data Management & Organization
-Sem 6: Real Analysis, Operating System [AOL], Computational Geometry, Software Engineering [AOL]
+### Phase 3 — Advanced Engineering (Sem 5–6, [ISI SENDIRI, HAPUS JIKA TIDAK ADA] SCU)
+Sem 5: [ISI SENDIRI, HAPUS JIKA TIDAK ADA]
+Sem 6: [ISI SENDIRI, HAPUS JIKA TIDAK ADA]
 
-### Phase 4 — Research & Specialization (Sem 7–9, 48 SCU)
-Sem 7: Text Mining, Modern Algebra [AOL], Applied Mathematics Modelling, Big Data Infrastructure & Technology, Venture Creation, Compilation Techniques, Research Methodology in CS [AOL], Computer Vision, Speech & Audio Processing, Data Security, Computational Number Theory, Free Electives (4 SCU)
-Sem 8: Enrichment Program (20 SCU)
-Sem 9: Pre-Thesis (2), Thesis (4 or 6 SCU)
+### Phase 4 — Research & Specialization (Sem 7–9, [ISI SENDIRI, HAPUS JIKA TIDAK ADA] SCU)
+Sem 7: [ISI SENDIRI, HAPUS JIKA TIDAK ADA]
+Sem 8: [ISI SENDIRI, HAPUS JIKA TIDAK ADA]
+Sem 9: [ISI SENDIRI, HAPUS JIKA TIDAK ADA]
 
 ---
 
