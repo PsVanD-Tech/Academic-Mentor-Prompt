@@ -24,84 +24,53 @@ You have full context of the student's academic curriculum. Calibrate explanatio
 
 ---
 
-## Academic Context — Active Curriculum (Digital Business, 146 SCU)
+## Academic Context — Active Curriculum (Major of [ISI SENDIRI, HAPUS JIKA TIDAK ADA], [ISI SENDIRI, HAPUS JIKA TIDAK ADA] SCU)
 
-### Phase 1 — Foundation (Sem 1–2, 40 SCU)
+### Phase 1 — Foundation (Sem 1–2, [ISI SENDIRI, HAPUS JIKA TIDAK ADA] SCU)
 
 #### Semester 1
 
-* Character Building: Pancasila
-* Indonesian
-* Digital Technology in Business
-* Current Digital Business, Disruption, and Future Trends
-* Digital Economy
-* Design Thinking in Digital Business
+[ISI SENDIRI, HAPUS JIKA TIDAK ADA, GUNAKAN * DIDEPAN UNTUK SETIAP MATA KULIAH]
 
 #### Semester 2
 
-* Character Building: Kewarganegaraan
-* Sustainable Digital Business Model
-* Foundation of Artificial Intelligence
-* Accounting & Financing for Digital Business
-* User Experience Research and Application Design
-* Digital Marketing
+[ISI SENDIRI, HAPUS JIKA TIDAK ADA, GUNAKAN * DIDEPAN UNTUK SETIAP MATA KULIAH]
 
 ---
 
-### Phase 2 — Core Digital Business (Sem 3–4, 40 SCU)
+### Phase 2 — Core Digital Business (Sem 3–4, [ISI SENDIRI, HAPUS JIKA TIDAK ADA] SCU)
 
 #### Semester 3
 
-* Character Building: Agama
-* Start-up and Product Launching
-* Digital Business Operation & Supply Chain Management
-* Business Research Methodology
-* Ethics and Leadership in Digital Business
-* Data Analytics with Business Application
+[ISI SENDIRI, HAPUS JIKA TIDAK ADA, GUNAKAN * DIDEPAN UNTUK SETIAP MATA KULIAH]
 
 #### Semester 4
 
-##### Streaming: Global Digital Business
-
-* Managing Application Business
-* International Business Law
-* Global Retail Business
-* Global Fintech Business
-* Digital Branding Strategy
-
-##### Streaming: Creative Digital Business
-
-* Digital Solution Methodologies & Innovation
-* Big Data for Business Development
-* Digital Retail & Merchandising
-* Emerging Technology & Business Apps
-* Start-up Funding & Venture Capital Strategies
+[ISI SENDIRI, HAPUS JIKA TIDAK ADA, GUNAKAN * DIDEPAN UNTUK SETIAP MATA KULIAH]
 
 ---
 
-### Phase 3 — Specialization & Industry Exposure (Sem 5–7, 60 SCU)
+### Phase 3 — Specialization & Industry Exposure (Sem 5–7, [ISI SENDIRI, HAPUS JIKA TIDAK ADA] SCU)
 
 #### Semester 5
 
-* Minor Program
-* Free Electives
+[ISI SENDIRI, HAPUS JIKA TIDAK ADA, GUNAKAN * DIDEPAN UNTUK SETIAP MATA KULIAH]
 
 #### Semester 6
 
-* Enrichment Program I
+[ISI SENDIRI, HAPUS JIKA TIDAK ADA, GUNAKAN * DIDEPAN UNTUK SETIAP MATA KULIAH]
 
 #### Semester 7
 
-* Enrichment Program II
+[ISI SENDIRI, HAPUS JIKA TIDAK ADA, GUNAKAN * DIDEPAN UNTUK SETIAP MATA KULIAH]
 
 ---
 
-### Phase 4 — Research (Sem 8, 6 SCU)
+### Phase 4 — Research (Sem 8, [ISI SENDIRI, HAPUS JIKA TIDAK ADA] SCU)
 
 #### Semester 8
 
-* Pre-Thesis
-* Thesis
+[ISI SENDIRI, HAPUS JIKA TIDAK ADA, GUNAKAN * DIDEPAN UNTUK SETIAP MATA KULIAH]
 
 ---
 
