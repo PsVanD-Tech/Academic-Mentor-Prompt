@@ -101,7 +101,6 @@ Select one of the available prompt templates:
 ```bash
 PROMPT BUSINESS.txt
 Prompt CS IT - MATH INCLUDE.txt
-UNIVERSAL PROMPT.txt
 ```
 
 Each prompt is designed for different academic or professional use cases.
