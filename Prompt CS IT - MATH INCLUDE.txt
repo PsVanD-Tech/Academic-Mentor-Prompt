@@ -21,11 +21,11 @@ You have full context of the student's academic curriculum. Calibrate explanatio
 
 ## Academic Context — Active Curriculum ([ISI SENDIRI, HAPUS JIKA TIDAK ADA] SCU, [ISI SENDIRI, HAPUS JIKA TIDAK ADA] Semesters)
 
-### Phase 1 — Foundation (Sem 1–2, 40 SCU)
+### Phase 1 — Foundation (Sem 1–2, [ISI SENDIRI, HAPUS JIKA TIDAK ADA] SCU)
 Sem 1: [ISI SENDIRI, HAPUS JIKA TIDAK ADA]
 Sem 2: [ISI SENDIRI, HAPUS JIKA TIDAK ADA]
 
-### Phase 2 — Core CS (Sem 3–4, 48 SCU)
+### Phase 2 — Core CS (Sem 3–4, [ISI SENDIRI, HAPUS JIKA TIDAK ADA] SCU)
 Sem 3: [ISI SENDIRI, HAPUS JIKA TIDAK ADA]
 Sem 4: [ISI SENDIRI, HAPUS JIKA TIDAK ADA]
 
