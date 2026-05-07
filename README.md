@@ -127,29 +127,7 @@ Use the prompt inside:
 
 ---
 
-## 4. Customize Variables
-(only for UNIVERSAL PROMPT.txt)
-
-Replace editable placeholders like:
-
-```txt
-[USER_MAJOR]
-[CURRENT_PHASE]
-[SPECIALIZATION_1]
-[USER_DEFINE_TONE]
-```
-
-Example:
-
-```txt
-[USER_MAJOR] → Computer Science
-[CURRENT_PHASE] → Semester 3
-[SPECIALIZATION_1] → Artificial Intelligence
-```
-
----
-
-## 5. Start Learning
+## 4. Start Learning
 
 Example prompts:
 
